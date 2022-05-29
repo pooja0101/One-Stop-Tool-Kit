@@ -47,10 +47,8 @@ Remember after cloning the repo from Github, please download all the image file 
 hitch or glitch or you can change the image directory according to your convenience and also alter the directory in the program code as well.
 
 ## Team Members ##
-  1. Aditya Tyagi
-  2. Pooja Bhardwaj
+  1. Pooja Bhardwaj
+  2. Aditya Tyagi
   3. Vastav Nissan Swain
   4. Bhargav Sharma
 
-<br /><br />
-#### **When I wrote this code, only God and I understood what I did. Now only God knows.** ####
